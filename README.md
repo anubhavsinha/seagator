@@ -1,7 +1,7 @@
-seagator
+Seagator
 ========
 
-SEAGATOR is a search aggregator written in Python.  
+Seagator is a search aggregator written in Python.  
 It is  designed to be your ultimate search alligator,  
 without losing out on any personlized relevance ranking.  
 
@@ -12,4 +12,4 @@ Most of the times you search Google, without even realizing that, you are missin
 good potential results, which are among the top 10, according to some other state-of-the-art  
 algorithm.  
 
-seagator helps you to get a cumulative result without missing on any of the goodies.
+Seagator helps you to get a cumulative result without missing on any of the goodies.
